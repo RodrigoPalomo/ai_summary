@@ -1,6 +1,6 @@
 import React from 'react'
 import Hero from './components/Hero'
-import Demo from './components/demo';
+import Demoo from './components/Demoo';
 import './App.css';
 
 const App = () => {
@@ -11,7 +11,7 @@ const App = () => {
             </div>
             <div className='app'>
                 <Hero />
-                <Demo />
+                <Demoo />
             </div>
         </main>
     )
